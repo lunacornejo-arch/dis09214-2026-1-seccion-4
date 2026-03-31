@@ -225,5 +225,3 @@ son 6 requisitos, cada uno será evaluado con puntaje entre 0.0 y 1.0, y la nota
 ### horario de entrega
 
 la solemne empieza desde ahora, y termina el viernes 10 de abril a las 5:00pm, hora de santiago de chile.
-
-deben enviar
