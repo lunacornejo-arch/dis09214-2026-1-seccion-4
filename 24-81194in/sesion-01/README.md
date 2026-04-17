@@ -8,4 +8,4 @@ aqui
 
 en la faad
 
-![texto que explica la imagen](./foto.jpg)
+![texto que explica la imagen](./fotoooo.jpg)
