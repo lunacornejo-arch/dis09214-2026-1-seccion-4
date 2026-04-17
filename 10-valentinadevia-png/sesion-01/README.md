@@ -8,4 +8,4 @@ separado
 
 por espacios en blanco
 
-![texto que explica la imagen](./foto.jpg)
+![texto que explica la imagen](./sillycat.png)
